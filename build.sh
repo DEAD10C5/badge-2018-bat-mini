@@ -5,7 +5,7 @@
 #   |____/|_____(_)_/   \_\____/(_)_|\___/(_)\____|____/
 
 
-#   Author : @dead10c5 @p0lr_ @mzbat @theDevilsVoice
+#   Author : @dead10c5 @theDevilsVoice
 #   Date   : July 9, 2018
 #   Version: 0.2
 `
