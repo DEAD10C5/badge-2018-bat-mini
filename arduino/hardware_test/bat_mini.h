@@ -7,7 +7,7 @@
    |____/|_____(_)_/   \_\____/(_)_|\___/(_)\____|____/
 
 
-   Author : @p0lr_ @mzbat @theDevilsVoice @dead10c5
+   Author : @p0lr_ @theDevilsVoice @dead10c5
    Date   : July 4, 2018
    Version: 0.1
 
